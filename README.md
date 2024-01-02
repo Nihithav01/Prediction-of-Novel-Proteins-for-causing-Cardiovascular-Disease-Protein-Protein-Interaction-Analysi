@@ -1,4 +1,4 @@
-# Cardiovascular-disease-prediction-using-bioinformatics-approach
+# Prediction of Novel Proteins for causing Cardiovascular Disease: Protein-Protein Interaction Analysis
 
 ## Abstract:
 Cardiovascular disease (CVD) is 
